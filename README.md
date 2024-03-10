@@ -11,3 +11,4 @@ KPI's Requirements
 4. Average Call Duration in Minutes: This metric helps assess the efficiency of call center agents by calculating and displaying the average call duration in minutes. It can also help identify trends in call handling.
 5. Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a predefined time frame, helping gauge the call center's ability to meet customer service standards.
 
+
