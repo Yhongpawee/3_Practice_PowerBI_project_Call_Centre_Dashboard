@@ -1,6 +1,5 @@
 # Practice_PowerBI_project_Call_Centre_Dashboard🔍️🌐📱
-This is one of the PowerBI project series for practicing creating a PowerBI dashboard. 
-The goal is to be able to utilize data cleaning, data processing, data modeling, time intelligence functions, DAX functions, power query, data visualization, navigation, creating KPI's, generating insights driving actionable recommendations using Power BI, and applying or finalizing all processes with real dataset files representing various aspects of a company's activities.
+This is one of the PowerBI project series for practicing creating a PowerBI dashboard. The goal is to be able to utilize data cleaning, data processing, data modeling, time intelligence functions, DAX functions, power query, data visualization, navigation, creating KPI's, generating insights driving actionable recommendations using Power BI, and applying or finalizing all processes with real dataset files representing various aspects of a company's activities.
 
 # Problem Statement🔥📝
 KPI's Requirements
